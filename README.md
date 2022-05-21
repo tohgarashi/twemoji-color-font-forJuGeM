@@ -1,1 +1,1 @@
-# twemoji-color-font-forJuGeM
+# Twitter Color Emoji SVGinOT Font for JuGeM
